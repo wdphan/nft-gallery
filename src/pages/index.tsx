@@ -41,12 +41,7 @@ const Home: FC = () => {
 							</div>
 
 							<div className="ml-12">
-								<div className="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-									wagmi is a collection of React Hooks containing everything you need to start working
-									with Ethereum. wagmi makes it easy to display ENS and balance information, sign
-									messages, interact with contracts, and much more — all with caching, request
-									deduplication, and persistence.
-								</div>
+								<div className="mt-2 text-gray-600 dark:text-gray-400 text-sm">HI!!</div>
 							</div>
 						</div>
 
