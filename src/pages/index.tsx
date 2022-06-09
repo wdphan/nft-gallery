@@ -2,7 +2,6 @@ import { FC } from 'react'
 import { APP_NAME } from '@/lib/consts'
 import { BookOpenIcon, CodeIcon, ShareIcon } from '@heroicons/react/outline'
 import { useState } from 'react'
-import { use } from 'chai'
 import { NFTCard } from '../components/nftCard'
 
 const Home = () => {
