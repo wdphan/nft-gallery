@@ -20,6 +20,6 @@
 			"@images/*": ["public/images/*"]
 		}
 	},
-	"include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/components/nftCard.jsx"],
+	"include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/components/nftCard.tsx"],
 	"exclude": ["node_modules"]
 }
